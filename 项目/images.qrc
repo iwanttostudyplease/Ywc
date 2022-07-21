@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="background">
+    <file>images/concent_pic2.png</file>
+    <file>images/concent_pic3.png</file>
+    <file>images/concent_pic5.png</file>
+    <file>images/concent_pic6.png</file>
+    <file>images/concent_pic7.png</file>
+    <file>images/concent_pic8.png</file>
+    <file>images/concent_pic.png</file>
+    <file>images/concent_pic4.png</file>
+    <file>images/head_pic.jpg</file>
+    <file>images/tail_pic.png</file>
+  </qresource>
+  <qresource prefix="register_bk">
+    <file>images/register_bk.png</file>
+  </qresource>
+  <qresource prefix="login_bak">
+    <file>images/login_bak.png</file>
+  </qresource>
+</RCC>
